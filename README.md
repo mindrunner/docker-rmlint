@@ -8,7 +8,7 @@ It doesn't do much in itself other than give you a bash shell that you can run t
 docker create \
   -v </path/to/folder/to/dedupe>:/dedupe \
   -v </path/to/store/output>:/output \
-  digitalpardoe/rmlint
+  runmymind/docker-rmlint
 ```
 
 ## Parameters
